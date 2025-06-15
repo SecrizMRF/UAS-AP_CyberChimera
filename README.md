@@ -7,8 +7,8 @@ Group CyberChimera
 4. Najla Az Zahra Tanjung - 241401136
 
 Deskripsi Program :
-Program menggunakan class bernama Minesweeper_class untuk menyimmpan fungsi dan constructor.
-Program yang kami pilih adalah program Minesweeper Lite. Program ini terdiri dari 176 lines dan memiliki beberapa fungsi sebagai berikut:
+
+Program yang kami pilih adalah program Minesweeper Lite. Program menggunakan class bernama Minesweeper_class untuk menyimmpan fungsi dan constructor. Program ini terdiri dari 176 lines dan memiliki beberapa fungsi sebagai berikut:
 1. Minesweeper() => sebagai constructor
 2. clearBoard() => reset data papan minesweeper
 3. generateBoard() => mencetak dan mengacak letak bom
