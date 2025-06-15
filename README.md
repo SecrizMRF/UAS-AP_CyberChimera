@@ -27,3 +27,5 @@ Juga menggunakan beberapa variabel seperti:
 7. Minesweeper_class game
 8. char ulang
 9. beberapa variabel iterasi
+
+Screenshot Hasil Program : https://drive.google.com/drive/folders/1ouxO2mI7OpFF8a0CCYlVwazPpBD8ME4g?usp=sharing
