@@ -22,5 +22,8 @@ Juga menggunakan beberapa variabel seperti:
 2. bool revealed [6][6]
 3. int data [6][6]
 4. int jumlahBom
-5. Minesweeper_class game
-6. char ulang
+5. int row
+6. int col
+7. Minesweeper_class game
+8. char ulang
+9. beberapa variabel iterasi
